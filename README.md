@@ -12,9 +12,14 @@ A: Код принадлежит компании. Этот репозитори
 A: История коммитов доступна в оригинальном репозитории. Фильтр по автору:  
 [github.com/assist-group/assist-mcommerce-sdk-android-new/commits?author=tbelousov](https://github.com/assist-group/assist-mcommerce-sdk-android-new/commits?author=tbelousov)
 
-**Задача**: разработать Android SDK и демо-приложение для приёма оплат через платёжный агрегатор Assist с поддержкой web-платежей и токенизированных платёжных методов (Google Pay, Samsung Pay, Mir Pay)  
-**Роль**: ведущий разработчик/архитектор (end-to-end)  
-**Технологии**: Kotlin, Coroutines, Retrofit, OkHttp, Dagger2, Room, WebView, Google Pay API, Samsung Pay SDK, Mir Pay
+**Задача**  
+Разработать Android SDK и демо-приложение для приёма оплат через платёжный агрегатор Assist с поддержкой web-платежей и токенизированных платёжных методов (Google Pay, Samsung Pay, Mir Pay)  
+
+**Роль**  
+Ведущий разработчик/архитектор (end-to-end)  
+
+**Технологии**  
+Kotlin, Coroutines, Retrofit, OkHttp, Dagger2, Room, WebView, Google Pay API, Samsung Pay SDK, Mir Pay
 
 ## Архитектура
 
